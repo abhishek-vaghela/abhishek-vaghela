@@ -18,6 +18,3 @@
 + 💎 Clean UI + Powerful Backend
 + ⚡ Obsessed with performance & design
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,node,python,flutter,mongodb,firebase,git,figma,linux" />
-</p>
