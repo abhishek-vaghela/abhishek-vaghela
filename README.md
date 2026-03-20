@@ -21,7 +21,7 @@ I’m a **Backend Developer** passionate about building **scalable, clean, and r
 - 🚀 Building **CodingWithYash**
 - 🤝 Open to **Open Source & Startup roles**
 - 💬 Ask me about **Python, Node.js**
-- 📫 **codingwithyashacker17@gmail.com**
+- 📫 **abhishekvaghela4141@gmail.com**
 - ⚡ Fun fact: *I enjoy debugging more than coding*
 
 ---
@@ -38,17 +38,17 @@ I’m a **Backend Developer** passionate about building **scalable, clean, and r
 
 ### ✅ Profile Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashgajjar7017&show_icons=true&theme=react&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishek-vaghela&show_icons=true&theme=react&hide_border=true&cache_seconds=1800" />
 </p>
 
 ### ✅ Contribution Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yashgajjar7017&theme=react&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=abhishek-vaghela&theme=react&hide_border=true" />
 </p>
 
 ### ✅ Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashgajjar7017&layout=compact&theme=react&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abishek-vaghela&layout=compact&theme=react&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
@@ -56,9 +56,9 @@ I’m a **Backend Developer** passionate about building **scalable, clean, and r
 ## 🏆 Achievements (2024)
 
 <p align="left">
-  <img src="https://github.com/YashGajjar7017/YashGajjar7017/blob/main/NewRelic1.png" width="120"/>
-  <img src="https://github.com/YashGajjar7017/YashGajjar7017/blob/main/NewRelic2.png" width="120"/>
-  <img src="https://github.com/YashGajjar7017/YashGajjar7017/blob/main/Oracle1.png" width="180"/>
+  <img src="https://github.com/abhishek-vaghela/abhishek-vaghela/blob/main/NewRelic1.png" width="120"/>
+  <img src="https://github.com/abhishek-vaghela/abhishek-vaghela/blob/main/NewRelic2.png" width="120"/>
+  <img src="https://github.com/abhishek-vaghela/Yabhishek-vaghela/blob/main/Oracle1.png" width="180"/>
 </p>
 
 ---
