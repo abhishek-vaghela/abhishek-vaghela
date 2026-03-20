@@ -1,16 +1,4 @@
-<!-- ===================== HERO ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Welcome%20..!%20Hacker%20To%20World&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
-<!-- ===================== MAIN IMAGE ===================== -->
-<p align="center">
-  <img src="https://github.com/YashGajjar7017/YashGajjar7017/blob/main/Latest_image.png" width="100%" height=100%/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Backend+Developer+from+India+🇮🇳;Python+%7C+Node.js+%7C+APIs;System+Design+Learner;Building+CodingWithYash;Learning+Every+Day+🚀" />
-</p>
-
----
 
 ## 👋 Hi, I’m Abhishek
 
@@ -67,17 +55,16 @@ I’m a **Backend Developer** passionate about building **scalable, clean, and r
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yash-gajjar/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-  <a href="https://leetcode.com/yashgajjar17/"><img src="https://skillicons.dev/icons?i=leetcode"/></a>
+  <!-- <a href="https://leetcode.com/yashgajjar17/"><img src="https://skillicons.dev/icons?i=leetcode"/></a> -->
   <a href="https://instagram.com/yash_gajjar_7017"><img src="https://skillicons.dev/icons?i=instagram"/></a>
-  <a href="https://www.youtube.com/@codinghacker007"><img src="https://skillicons.dev/icons?i=youtube"/></a>
-  <a href="https://codepen.io/yashgajjar7017"><img src="https://skillicons.dev/icons?i=codepen"/></a>
+  <!-- <a href="https://www.youtube.com/@codinghacker007"><img src="https://skillicons.dev/icons?i=youtube"/></a>
+  <a href="https://codepen.io/yashgajjar7017"><img src="https://skillicons.dev/icons?i=codepen"/></a> -->
 </p>
 
 ---
 
-## 📄 Resume
 
-<img src="https://github.com/YashGajjar7017/Resume/blob/main/resume_26-1-25.jpg" width="100%" />
+<!-- <img src="https://github.com/YashGajjar7017/Resume/blob/main/resume_26-1-25.jpg" width="100%" /> -->
 
 ---
 
